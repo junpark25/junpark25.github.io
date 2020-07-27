@@ -17,7 +17,7 @@
       <pubDate>Mon, 27 Jul 2020 17:59:42 +0900</pubDate>
       
       <guid>/posts/first-post/</guid>
-      <description>$\int f(x) dx $ This is a test for math expression.</description>
+      <description>$$\int f(x) dx $$ This is a test for math expression.</description>
     </item>
     
   </channel>
