@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nothing New Under The Sun</title>
-    <link>https://junpark25.github.io/</link>
+    <link>/</link>
     <description>Recent content on Nothing New Under The Sun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jul 2020 17:59:42 +0900</lastBuildDate>
     
-	<atom:link href="https://junpark25.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://junpark25.github.io/posts/first-post/</link>
+      <link>/posts/first-post/</link>
       <pubDate>Mon, 27 Jul 2020 17:59:42 +0900</pubDate>
       
-      <guid>https://junpark25.github.io/posts/first-post/</guid>
+      <guid>/posts/first-post/</guid>
       <description></description>
     </item>
     
